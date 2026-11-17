@@ -1,0 +1,11 @@
+input_data/
+analysis/outputs/
+analysis/logs/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.xpt
+*.XPT
+.env
+.env.*

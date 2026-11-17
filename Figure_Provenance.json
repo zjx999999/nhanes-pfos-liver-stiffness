@@ -1,0 +1,99 @@
+[
+  {
+    "figure": "Figure1",
+    "size_inches": [
+      6.5,
+      8.0
+    ],
+    "source_files": [
+      "sample_flow.csv",
+      "missingness.csv",
+      "complete_case_selection.csv"
+    ],
+    "description": "Flow boxes have padded gaps and arrows confined strictly to white channels; selection means, SEs and eligibility counts unchanged.",
+    "minimum_font_pt": 9.5,
+    "new_model": false
+  },
+  {
+    "figure": "Figure2",
+    "size_inches": [
+      6.5,
+      7.5
+    ],
+    "source_files": [
+      "table1.csv"
+    ],
+    "description": "Continuous means/SE only on five unit-specific axes; redundant complementary categories omitted from plot but retained in unchanged Table 1.",
+    "minimum_font_pt": 9.5,
+    "new_model": false
+  },
+  {
+    "figure": "Figure3",
+    "size_inches": [
+      6.5,
+      7.0
+    ],
+    "source_files": [
+      "table1.csv",
+      "exposure_distribution.csv"
+    ],
+    "description": "Domain medians use vertically separated period/domain markers, with unchanged x values and paired labels; offsets are display only. No new distribution/model.",
+    "minimum_font_pt": 8.5,
+    "new_model": false
+  },
+  {
+    "figure": "Figure4",
+    "size_inches": [
+      6.5,
+      4.8
+    ],
+    "source_files": [
+      "primary_model_comparison.csv",
+      "samala_aligned_2017_unweighted.csv",
+      "cycle_effect_difference.csv"
+    ],
+    "description": "Full period labels and opaque preblended .65 residual intervals with caps; frozen coefficients unchanged.",
+    "minimum_font_pt": 9.2,
+    "new_model": false
+  },
+  {
+    "figure": "Figure5",
+    "size_inches": [
+      6.5,
+      7.8
+    ],
+    "source_files": [
+      "secondary_models.csv"
+    ],
+    "description": "All 14 secondary estimates with numeric beta/CI and nominal/Holm columns; separate units and axes.",
+    "minimum_font_pt": 9.2,
+    "new_model": false
+  },
+  {
+    "figure": "Figure6",
+    "size_inches": [
+      6.5,
+      7.6
+    ],
+    "source_files": [
+      "sensitivity_with_probe.csv",
+      "primary_model_comparison.csv"
+    ],
+    "description": "Seven saved specifications per period; no model added. n-PFOA estimates a different exposure.",
+    "minimum_font_pt": 9.2,
+    "new_model": false
+  },
+  {
+    "figure": "SupplementaryFigureS1",
+    "size_inches": [
+      6.5,
+      6.2
+    ],
+    "source_files": [
+      "manuscript and saved domain counts"
+    ],
+    "description": "Directional evidence-to-contribution roadmap; actual domains/complete cases and analysis history preserved.",
+    "minimum_font_pt": 9.5,
+    "new_model": false
+  }
+]
