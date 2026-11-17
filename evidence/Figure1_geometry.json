@@ -1,0 +1,56 @@
+{
+  "outside_figure": [],
+  "critical_label_collisions": [],
+  "panel_title_alignment": [
+    {
+      "text": "a  Survey samples and analytic domains",
+      "horizontal_alignment": "left",
+      "x0_pixels": 32.5
+    },
+    {
+      "text": "b  Missing primary-model variables (%)",
+      "horizontal_alignment": "left",
+      "x0_pixels": 162.5
+    },
+    {
+      "text": "c  Available PFOS by inclusion status",
+      "horizontal_alignment": "left",
+      "x0_pixels": 162.5
+    }
+  ],
+  "arrow_box_clearances": [
+    {
+      "upper_box_to_arrow_clearance_pixels": 3.294212673611153,
+      "arrow_to_lower_box_clearance_pixels": 4.844489869365841
+    },
+    {
+      "upper_box_to_arrow_clearance_pixels": 3.294212673611153,
+      "arrow_to_lower_box_clearance_pixels": 4.844489869365955
+    },
+    {
+      "upper_box_to_arrow_clearance_pixels": 3.294212673611153,
+      "arrow_to_lower_box_clearance_pixels": 4.844489869365955
+    },
+    {
+      "upper_box_to_arrow_clearance_pixels": 3.294212673611153,
+      "arrow_to_lower_box_clearance_pixels": 4.844489869366068
+    },
+    {
+      "upper_box_to_arrow_clearance_pixels": 3.294212673611153,
+      "arrow_to_lower_box_clearance_pixels": 4.844489869365841
+    },
+    {
+      "upper_box_to_arrow_clearance_pixels": 3.294212673611153,
+      "arrow_to_lower_box_clearance_pixels": 4.844489869365955
+    },
+    {
+      "upper_box_to_arrow_clearance_pixels": 3.294212673611153,
+      "arrow_to_lower_box_clearance_pixels": 4.844489869365955
+    },
+    {
+      "upper_box_to_arrow_clearance_pixels": 3.294212673611153,
+      "arrow_to_lower_box_clearance_pixels": 4.844489869366068
+    }
+  ],
+  "arrow_box_touch_or_overlap": false
+}

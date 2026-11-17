@@ -1,0 +1,23 @@
+{
+  "outside_figure": [],
+  "critical_label_collisions": [],
+  "panel_title_alignment": [
+    {
+      "text": "a  Complete-case PFAS summaries",
+      "horizontal_alignment": "left",
+      "x0_pixels": 117.0
+    },
+    {
+      "text": "b  Domain medians",
+      "horizontal_alignment": "left",
+      "x0_pixels": 117.0
+    },
+    {
+      "text": "c  Detection",
+      "horizontal_alignment": "left",
+      "x0_pixels": 442.00000000000006
+    }
+  ],
+  "domain_median_marker_overlaps": [],
+  "domain_markers": 16
+}

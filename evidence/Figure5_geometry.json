@@ -1,0 +1,16 @@
+{
+  "outside_figure": [],
+  "critical_label_collisions": [],
+  "panel_title_alignment": [
+    {
+      "text": "a  Secondary PFAS and log LSM",
+      "horizontal_alignment": "left",
+      "x0_pixels": 22.750000000000004
+    },
+    {
+      "text": "b  Secondary PFAS and CAP",
+      "horizontal_alignment": "left",
+      "x0_pixels": 22.750000000000004
+    }
+  ]
+}

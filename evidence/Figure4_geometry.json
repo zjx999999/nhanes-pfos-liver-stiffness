@@ -1,0 +1,16 @@
+{
+  "outside_figure": [],
+  "critical_label_collisions": [],
+  "panel_title_alignment": [
+    {
+      "text": "a  Adjustment tiers and inference",
+      "horizontal_alignment": "left",
+      "x0_pixels": 22.750000000000004
+    },
+    {
+      "text": "b  Later minus earlier extended coefficient",
+      "horizontal_alignment": "left",
+      "x0_pixels": 22.750000000000004
+    }
+  ]
+}

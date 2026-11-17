@@ -1,0 +1,16 @@
+{
+  "outside_figure": [],
+  "critical_label_collisions": [],
+  "panel_title_alignment": [
+    {
+      "text": "a  Population composition",
+      "horizontal_alignment": "left",
+      "x0_pixels": 221.00000000000003
+    },
+    {
+      "text": "b  Continuous measurements: mean \u00b1 SE",
+      "horizontal_alignment": "left",
+      "x0_pixels": 26.0
+    }
+  ]
+}
