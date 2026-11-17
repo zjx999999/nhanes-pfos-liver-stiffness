@@ -1,0 +1,15 @@
+"period","stage","n"
+"2017-2018","DEMO rows",9254
+"2017-2018","Age >=20",5569
+"2017-2018","PFAS positive-weight adults",1742
+"2017-2018","Complete LUX among adults",4510
+"2017-2018","Eligible adult PFAS/LUX intersection",1498
+"2017-2018","Eligible with LSM <=40",1495
+"2017-2018","Eligible complete main-model covariates",1323
+"2021-2023","DEMO rows",11933
+"2021-2023","Age >=20",7809
+"2021-2023","PFAS positive-weight adults",2194
+"2021-2023","Complete LUX among adults",5277
+"2021-2023","Eligible adult PFAS/LUX intersection",1913
+"2021-2023","Eligible with LSM <=40",1903
+"2021-2023","Eligible complete main-model covariates",1653

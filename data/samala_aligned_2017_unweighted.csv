@@ -1,0 +1,4 @@
+"exposure","n","beta","se","ci_low","ci_high","p","note"
+"log2_LBXNFOS",1437,-0.0346252260504707,0.00800323741544032,-0.0503245710161139,-0.0189258810848274,1.62083675632603e-05,"Unweighted age/sex/race adjusted approximation; not exact Eng replication"
+"log2_LBXMFOS",1437,-0.0161996179039206,0.0088043052485156,-0.0334703569941547,0.00107112118631357,0.0659804458412929,"Unweighted age/sex/race adjusted approximation; not exact Eng replication"
+"log2_PFOS",1437,-0.0315671795255588,0.00846280358026108,-0.048168020646013,-0.0149663384051046,0.000198881381142473,"Unweighted age/sex/race adjusted approximation; not exact Eng replication"

@@ -1,0 +1,18 @@
+[
+  {
+    "exposure": "PFOS_total",
+    "complete_case_median_relative_difference_percent": -41.666666666666664
+  },
+  {
+    "exposure": "PFOA_total",
+    "complete_case_median_relative_difference_percent": -28.666666666666664
+  },
+  {
+    "exposure": "LBXPFHS",
+    "complete_case_median_relative_difference_percent": -25.0
+  },
+  {
+    "exposure": "LBXPFNA",
+    "complete_case_median_relative_difference_percent": -25.00000000000001
+  }
+]
